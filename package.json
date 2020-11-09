@@ -1,0 +1,19 @@
+{
+  "name": "learn_testing",
+  "version": "1.0.0",
+  "description": "git 'er done",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/learn_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/learn_testing/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/learn_testing#readme"
+}
