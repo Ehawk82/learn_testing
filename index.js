@@ -1,22 +1,15 @@
 let myArray = [];
 
-
-function seq(requested_length) { 
-
+function seq(requested_length) {
   if (requested_length < 0) {
     throw new RangeError("Must not be negative");
   }
 
   for (var i = 0; i < requested_length; i++) {
-
     myArray.push(i);
-
   }
 
-
-  return myArray
-
+  return myArray;
 }
 
-
-modules.exports = { seq(7) };
+modules.exports = { seq };
